@@ -26,7 +26,7 @@
 </div> <br/>
 
 Ser programador é ser paciente e persistente na busca de novos conhecimentos.
-Viva a Tecnologia! 💻
+Viva a Tecnologia! 💻☕😎
 
 
 
