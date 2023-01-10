@@ -4,6 +4,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MarcioViniciusdvl)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcioViniciusdevl&show_icons=true&theme=dark)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioViniciusdevl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia 
